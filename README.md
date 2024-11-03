@@ -25,25 +25,6 @@
 <br>
 <br>
 <br>
-<p align="center">
-
-```python
-class Questers():
-    
-  def __init__(self):
-    self.name = "Alberto Ambriz";
-    self.username = "Questers";
-    self.location = "Manzanillo, Colima, Mexico";
-    self.email = "albertpoambez@icloud.com";
-    self.web = "https://ambrizalberto.github.io/Portfolio/";
-  
-  def __str__(self):
-    return self.name
-
-if __name__ == '__main__':
-    me = Questers()
-```
-</p>
 
 <br>
 
@@ -56,107 +37,168 @@ if __name__ == '__main__':
 
 <p align="center">
 
-- **Languages**:
-    
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![Swift](https://img.shields.io/badge/Swift%20-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src= "https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="28" alt="csharp logo"  />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="28" alt="cplusplus logo"  />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="" alt="kotlin logo"  />
+  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="28" alt="arduino logo"  />
+ 
+
+
+</span>
 
 <br>   
-    
-- **Front-End Development**:
+<br>
+ 
+<h4> Front-End Development </h4>
+<span>
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"  alt="html5 logo"  />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"  alt="css3 logo"  />
+
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge"  alt="bootstrap logo"  />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"  alt="javascript logo"  />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge"  alt="jquery logo"  />
+
+
+
+</span>
 
 <br>
+<br>
+<h4> Back-End Development </h4>
+<span>
 
-- **Backend Development**:
-
-    ![Prisma](https://img.shields.io/badge/Prisma%20-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)
-    ![PHP](https://img.shields.io/badge/PHP%20-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-    ![Next.js](https://img.shields.io/badge/Next.js%20-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-    ![MySQL](https://img.shields.io/badge/MySQL%20-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-    ![Node.js](https://img.shields.io/badge/Node.js%20-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   
-<br>
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge"  alt="express logo"  />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge"  alt="firebase logo"  />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge"  alt="nodejs logo"  />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge"  alt="php logo"  />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="mysql logo"  />
 
-- **Cloud Hosting**:
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge"  alt="prisma logo"  />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge"  alt="postgresql logo"  />
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge"  alt="sqlite logo"  />
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+###
+##
+
+
+
+</span>
+
+
+<h4> Cloud Hosting & Technologies </h4>
+<span>
+
+<img src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white"  alt="sqlite logo" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge"  alt="vercel logo"  />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge" alt="anaconda logo"  />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=black&style=for-the-badge"  alt="tensorflow logo"  />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=black&style=for-the-badge"  alt="supabase logo"  />
+
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" alt="pytorch logo"  />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge"  alt="opencv logo"  />
+
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge"  alt="numpy logo"  />
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge"  alt="pandas logo"  />
+  <img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
+
+
+
+
+
+
+</span>
     
 <br>
 
-- **Softwares and Tools**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
 <br>
-
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+<h4> Tools </h4>
+<span>
 
 
+
+  <img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white&style=for-the-badge" alt="apache logo"  />
+ 
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"  alt="git logo"  />
+
+  <img src="https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white&style=for-the-badge"  alt="gradle logo"  />
+
+  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge"  alt="npm logo"  />
+
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge"  alt="postman logo"  />
+ 
+  <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=for-the-badge"  alt="slack logo"  />
+
+  <img src="https://img.shields.io/badge/Stack Overflow-F58025?logo=stackoverflow&logoColor=black&style=for-the-badge"  alt="stackoverflow logo"  />
+
+  <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge"  alt="trello logo"  />
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge"  alt="jira logo"  />
+
+###
+
+###
+##
+
+
+
+</span>
+<h4> Software </h4>
+<span>
+
+
+ <img src="https://img.shields.io/badge/Android Studio-3DDC84?logo=androidstudio&logoColor=black&style=for-the-badge"  alt="androidstudio logo"  />
+  
+  <img src="https://img.shields.io/badge/Apple-000000?logo=apple&logoColor=white&style=for-the-badge"  alt="apple logo"  />
+  
+  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge"  alt="canva logo"  />
+ 
+  <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white&style=for-the-badge"  alt="debian logo"  />
+ 
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge"  alt="figma logo"  />
+  
+  <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=black&style=for-the-badge"  alt="neovim logo"  />
+  
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge"  alt="vscode logo"  />
+
+###
+
+###
+
+
+
+</span>
 </p>
 
 
 <br>
-<br>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+## <b> Let's Connect..!</b>
 <br>
 
-
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
-<br>
-
-<div align="center">
-
-<a href="https://github.com/AmbrizAlberto/">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmbrizAlberto&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmbrizAlberto&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="AmbrizAlberto"/>
-
-</a>
-</div>
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-<br>
-<br>
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
-
-<div align='left'>
-
-<ul>
-
-<a href="https://linkedin.com/in/alberto-ambriz-chavez/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin: Alberto Ambriz-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="https://www.linkedin.com/in/jose-david-aguilar-avalos-626a4b2b2/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin: Jose David Aguilar-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;"/>
 </a>
 
+
+
 <br>
 
 
-<a href="mailto:albertpoambez@icloud.com?subject=Correo%20Importante%20de%20Contacto%20Github%20&body=Hola%20Alberto,%0D%0A%0D%0AQuisiera%20ponerme%20en%20contacto%20contigo.%0D%0A%0D%0ASaludos,%0D%0ATu%20Nombre">
-<img src="https://img.shields.io/badge/email: albertpoambez-%23EA4335.svg?style=for-the-badge&logo=icloud&logoColor=white" t=email style="margin-bottom: 5px;" />
+<a href="mailto:jaguilar51@ucol.mx?subject=Correo%20Importante%20de%20Contacto%20Github&body=Hola,%0D%0A%0D%0AQuisiera%20ponerme%20en%20contacto%20contigo.%0D%0A%0D%0ASaludos,%0D%0ATu%20Nombre">
+    <img src="https://img.shields.io/badge/email: jaguilar51@ucol.mx-%23EA4335.svg?style=for-the-badge&logo=icloud&logoColor=white" alt="Email" style="margin-bottom: 5px;" />
 </a>
+
 
 
 	
@@ -166,11 +208,3 @@ if __name__ == '__main__':
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-
-<div align='center'>
-
-<p align = "center">
-	<a href="#"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-		
-##  <b>Si lo puedes imaginar, lo puedes programar ✨
-</p>
