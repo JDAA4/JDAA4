@@ -164,7 +164,7 @@
 ## <b> Let's Connect..!</b>
 <br>
 
-<a href="https://www.linkedin.com/in/jose-david-aguilar-avalos-626a4b2b2/" target="_blank">
+<a href="https://www.linkedin.com/in/david-avalos-dev/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin: Jose David Aguilar-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;"/>
 </a>
 
