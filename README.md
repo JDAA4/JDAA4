@@ -17,6 +17,7 @@
   <li> 🎓 Software Engineering  Student from <a href="https://www.ucol.mx/"> University of Colima</a> </li>
   <li> ✨ Currently learning Web and Android Development
   <li> 🔭 I’m currently open for an Intern or a new job opportunity, this is  <a href="https://portfolio-david-dev.vercel.app/CV.pdf"> My resume</a> </li>
+  <li>  Personal website <a href="https://portfolio-david-dev.vercel.app"> Link</a></li>
   <li> 📫 How to reach me: <a href="mailto:jaguilar51@ucol.mx">jaguilar51@ucol.mx</a> </li>
 </li>
 </ul>
@@ -63,6 +64,7 @@
 
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge"  alt="bootstrap logo"  />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"  alt="javascript logo"  />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge"  alt="react logo"  />
   <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge"  alt="jquery logo"  />
 
 
@@ -74,7 +76,7 @@
 <h4> Back-End Development </h4>
 <span>
 
-  
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge"  alt="nextjs logo"  />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge"  alt="express logo"  />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge"  alt="firebase logo"  />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge"  alt="nodejs logo"  />
@@ -93,37 +95,18 @@
 </span>
 
 
-<h4> Cloud Hosting & Technologies </h4>
-<span>
 
-<img src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white"  alt="sqlite logo" />
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge"  alt="vercel logo"  />
-  <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge" alt="anaconda logo"  />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=black&style=for-the-badge"  alt="tensorflow logo"  />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=black&style=for-the-badge"  alt="supabase logo"  />
-
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" alt="pytorch logo"  />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge"  alt="opencv logo"  />
-
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge"  alt="numpy logo"  />
-  <img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
-
-
-
-
-
-
-</span>
     
-<br>
 
 
-<br>
-<h4> Tools </h4>
+
+
+<h4>Cloud Hosting & Tools </h4>
 <span>
 
 
-
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge"  alt="vercel logo"  />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=black&style=for-the-badge"  alt="supabase logo"  />
   <img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white&style=for-the-badge" alt="apache logo"  />
  
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"  alt="git logo"  />
