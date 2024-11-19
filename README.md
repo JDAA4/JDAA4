@@ -87,9 +87,8 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge"  alt="postgresql logo"  />
   <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge"  alt="sqlite logo"  />
 
-###
-##
-
+<br>
+<br>
 
 
 </span>
@@ -124,11 +123,8 @@
   <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge"  alt="trello logo"  />
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge"  alt="jira logo"  />
 
-###
-
-###
-##
-
+<br>
+<br>
 
 
 </span>
