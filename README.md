@@ -16,7 +16,7 @@
   <li> 💻 I'm currently working in <a href="https://github.com/Paco-Taco/SpikeNative">Spike App</a> </li>
   <li> 🎓 Software Engineering  Student from <a href="https://www.ucol.mx/"> University of Colima</a> </li>
   <li> ✨ Currently learning Web and Android Development
-  <li> 🔭 I’m currently open for an Intern or a new job opportunity, this is  <a href="https://ambrizalberto.github.io/Portfolio/CVEN.pdf"> My resume</a> </li>
+  <li> 🔭 I’m currently open for an Intern or a new job opportunity, this is  <a href="https://portfolio-david-dev.vercel.app/CV.pdf"> My resume</a> </li>
   <li> 📫 How to reach me: <a href="mailto:jaguilar51@ucol.mx">jaguilar51@ucol.mx</a> </li>
 </li>
 </ul>
