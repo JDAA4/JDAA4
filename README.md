@@ -1,6 +1,5 @@
 <h1 align="center"><b>Hello there!   </b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="50" height="50" /></h1>
 
-<!--  -->
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=28A92F&width=435&lines=I'm+David+Aguilar;Software+Enginnering+Student;Always+learning+new+things!" alt="Typing SVG" /></a>
 </p>
@@ -47,9 +46,6 @@
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="28" alt="cplusplus logo"  />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="" alt="kotlin logo"  />
   <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="28" alt="arduino logo"  />
- 
-
-
 </span>
 
 <br>   
