@@ -156,17 +156,11 @@
     <img src="https://img.shields.io/badge/linkedin: Jose David Aguilar-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;"/>
 </a>
 
-
-
 <br>
-
 
 <a href="mailto:jaguilar51@ucol.mx?subject=Correo%20Importante%20de%20Contacto%20Github&body=Hola,%0D%0A%0D%0AQuisiera%20ponerme%20en%20contacto%20contigo.%0D%0A%0D%0ASaludos,%0D%0ATu%20Nombre">
     <img src="https://img.shields.io/badge/email: jaguilar51@ucol.mx-%23EA4335.svg?style=for-the-badge&logo=icloud&logoColor=white" alt="Email" style="margin-bottom: 5px;" />
 </a>
-
-
-
 	
 </ul>
 </div>
