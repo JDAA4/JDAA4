@@ -142,8 +142,6 @@
 
 </span>
 </p>
-
-
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## <b> Let's Connect..!</b>
@@ -154,11 +152,7 @@
 <br>
 <a href="mailto:jaguilar51@ucol.mx?subject=Correo%20Importante%20de%20Contacto%20Github&body=Hola,%0D%0A%0D%0AQuisiera%20ponerme%20en%20contacto%20contigo.%0D%0A%0D%0ASaludos,%0D%0ATu%20Nombre">
     <img src="https://img.shields.io/badge/email: jaguilar51@ucol.mx-%23EA4335.svg?style=for-the-badge&logo=icloud&logoColor=white" alt="Email" style="margin-bottom: 5px;" />
-</a>
-	
+</a>	
 </ul>
-</div>
-
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
