@@ -119,32 +119,25 @@
 <h4> Software </h4>
 <span>
 
-
  <img src="https://img.shields.io/badge/Android Studio-3DDC84?logo=androidstudio&logoColor=black&style=for-the-badge"  alt="androidstudio logo"  />
-  
   <img src="https://img.shields.io/badge/Apple-000000?logo=apple&logoColor=white&style=for-the-badge"  alt="apple logo"  />
-  
   <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge"  alt="canva logo"  />
- 
   <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white&style=for-the-badge"  alt="debian logo"  />
- 
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge"  alt="figma logo"  />
-  
   <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=black&style=for-the-badge"  alt="neovim logo"  />
-  
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge"  alt="vscode logo"  />
 
 ###
 
 ###
 
-
-
 </span>
 </p>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-## <b> Let's Connect..!</b>
+<b> 
+ Let's Connect..!</b>
+<br>
 <br>
 <a href="https://www.linkedin.com/in/david-avalos-dev/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin: Jose David Aguilar-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;"/>
