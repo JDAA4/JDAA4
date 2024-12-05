@@ -89,13 +89,6 @@
 
 </span>
 
-
-
-    
-
-
-
-
 <h4>Cloud Hosting & Tools </h4>
 <span>
 
@@ -113,8 +106,6 @@
 
 <br>
 <br>
-
-
 </span>
 <h4> Software </h4>
 <span>
